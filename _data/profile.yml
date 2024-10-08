@@ -32,13 +32,13 @@ portrait_caption: >-
 
 education:
 - name: Tsinghua University
-  # logo: /assets/images/badges/MIT_Social_circle.png
+  logo: 
   position: >- 
     IIIS <br/>
     Ph.D. Student
   date: Sep. 2023 - present
 - name: Tsinghua University
-  # logo: /assets/images/badges/PKU_red.png
+  logo: 
   position: B.S. in Automation
   date: Sep. 2018 - Jul. 2022
 
